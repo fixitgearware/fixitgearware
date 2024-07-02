@@ -1,5 +1,4 @@
 <img src="https://github.com/fixitgearware/fixitgearwaresecurity/blob/main/fixitgearwarebio.png">
-
 ---
 
 Driven towards providing subsidized trainings, and a sustainable secure ecosystem in cybersecurity.
