@@ -1,6 +1,6 @@
 <img src="https://github.com/fixitgearware/fixitgearwaresecurity/blob/main/fixitgearwarebio.png">
 
-<strong>Driven towards providing subsidized trainings, solutions, and a sustainable secure cybersecurity ecosystem & awareness.</strong>
+<strong>Driven towards providing subsidized cybersecurity trainings, recovery and solutions, while ensuring a sustainable cybersec ecosystem, and information security awareness.</strong>
 <br><br>
 
  [![Website](https://img.shields.io/badge/fixitgearware.com-Blue?style=for-the-badge&logo=weblate&logoColor=white&labelColor=%2300FF00&color=blue)](https://fixitgearware.com) &nbsp;  [![Store](https://img.shields.io/badge/online_store-%23000000?style=for-the-badge&logo=shopify&logoColor=black&labelColor=%23FFFF00&color=black)](https://fixitgearware.com/store/) &nbsp;  [![Donations](https://img.shields.io/badge/Support%20%26%20Donations-%23000000?style=for-the-badge&logo=paypal&logoColor=white&color=GREEN)](https://www.fixitgearware.com/services/donations_support/) &nbsp; [![Twitter](https://img.shields.io/badge/x(former%20twitter)-%23000000?style=for-the-badge&logo=x&logoColor=black&labelColor=%2300FFFF&color=black)](https://x.com/fixitgearware)&nbsp;[![Discord](https://img.shields.io/badge/DISCORD-%23000000?style=for-the-badge&logo=DISCORD&logoColor=white&color=%235865F2)](https://discord.com/invite/XGSczQaDR8)
