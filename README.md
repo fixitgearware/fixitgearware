@@ -11,7 +11,7 @@
 
 <h1>Coding Speciality:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,aws,bash,bootstrap,c,cpp,css,debian,git,github,html,kali,linux,laravel,php,postman,pwershell,py,ruby,wordpress,)](https://skillicons.dev)
 ---
 <h2>LEARNING HUB AND ARTICLES</h2>
 <details>
