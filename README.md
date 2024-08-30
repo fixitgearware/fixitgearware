@@ -4,12 +4,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=62F71A&center=true&vCenter=true&width=435&lines=Founded+in+2019...;FixitGearWare+Security++Aims+in%2C+;Promoting+and+providing+sustainable%2C;+Training+%26+Awareness%2C;In+Offensive+Security+(Red+Teaming)%2C;Defensive+Security+(Blue+Teaming)%2C;Information+Security+(InfoSec)%2C;the+use+of+AI+Tools+and+more...;In+Cybersecurity.)](https://git.io/typing-svg)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h1>CODING SPECIALITY:</h1>
+<h1>CODING SPECIALITY:</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=ai,aws,bash,bootstrap,c,cpp,css,debian,git,github,html,kali,linux,laravel,php,postman,powershell,py,ruby,wordpress,)](https://skillicons.dev)
 ---
 
 <br>
+
+<h1>OTHER LINKS:</h1>
 
  [![Website](https://img.shields.io/badge/fixitgearware.com-Blue?style=for-the-badge&logo=weblate&logoColor=white&labelColor=%2300FF00&color=blue)](https://fixitgearware.com) &nbsp;  [![Store](https://img.shields.io/badge/online_store-%23000000?style=for-the-badge&logo=shopify&logoColor=black&labelColor=%23FFFF00&color=black)](https://fixitgearware.com/store/) &nbsp;  [![Donations](https://img.shields.io/badge/Support%20%26%20Donations-%23000000?style=for-the-badge&logo=paypal&logoColor=white&color=GREEN)](https://www.fixitgearware.com/services/donations_support/) &nbsp; [![Twitter](https://img.shields.io/badge/x(former%20twitter)-%23000000?style=for-the-badge&logo=x&logoColor=black&labelColor=%2300FFFF&color=black)](https://x.com/fixitgearware)&nbsp;[![Discord](https://img.shields.io/badge/DISCORD-%23000000?style=for-the-badge&logo=DISCORD&logoColor=white&color=%235865F2)](https://discord.com/invite/XGSczQaDR8)
  &nbsp;[![Official_YouTube](https://img.shields.io/badge/OFFICIAL%20YOUTUBE-%23000000?style=for-the-badge&logo=YOUTUBE&logoColor=white&color=%23FF0000)](https://www.youtube.com/@fixitgearware
