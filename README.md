@@ -15,7 +15,7 @@
  &nbsp;[![Official_YouTube](https://img.shields.io/badge/OFFICIAL%20YOUTUBE-%23000000?style=for-the-badge&logo=YOUTUBE&logoColor=white&color=%23FF0000)](https://www.youtube.com/@fixitgearware
 ) 
 
-<h2>LEARNING HUB AND ARTICLES</h2>
+<h2>LEARNING HUB AND BLOG:</h2>
 <details>
 <summary><b><u>BLOG-ARTICLES 💻</u></b></summary><br>
 
