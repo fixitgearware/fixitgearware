@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=62F71A&center=true&vCenter=true&width=435&lines=Founded+in+2019...;FixitGearWare+Security++Aims+in%2C+;Promoting+and+providing+sustainable%2C;+Training+%26+Awareness%2C;In+Offensive+Security+(Red+Teaming)%2C;Defensive+Security+(Blue+Teaming)%2C;Information+Security+(InfoSec)%2C;the+use+of+AI+Tools+and+more...;In+Cybersecurity.)](https://git.io/typing-svg)
 
 
-<h1>Coding Speciality:</h1>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h1>CODING SPECIALITY:</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=ai,aws,bash,bootstrap,c,cpp,css,debian,git,github,html,kali,linux,laravel,php,postman,powershell,py,ruby,wordpress,)](https://skillicons.dev)
 ---
