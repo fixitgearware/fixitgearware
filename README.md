@@ -9,7 +9,7 @@
  &nbsp;[![Official_YouTube](https://img.shields.io/badge/OFFICIAL%20YOUTUBE-%23000000?style=for-the-badge&logo=YOUTUBE&logoColor=white&color=%23FF0000)](https://www.youtube.com/@fixitgearware
 ) 
 
-#Coding Speciality:
+<h1>Coding Speciality:</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ---
