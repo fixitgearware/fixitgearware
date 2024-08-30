@@ -18,6 +18,7 @@
 <h2>CONNECT WITH US:</h2>
 <details>
 <summary><b><u>Socials 🫂🌍</u></b></summary><br>
+</details>
  
 <h2>LEARNING HUB AND BLOG:</h2>
 <details>
